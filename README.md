@@ -6,3 +6,7 @@
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbj2060&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contacts
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:kbj2060@gmail.com)
+![Velog Badge](https://img.shields.io/badge/Velog-d14836?logo=V&logoColor=white&color=rgb(36,182,133)&link=mailto:kbj2060@gmail.com)
